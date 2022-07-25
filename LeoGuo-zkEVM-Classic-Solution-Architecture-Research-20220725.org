@@ -1,0 +1,10 @@
+* Main
+** Basic information
+
+| Item            |                                                        |
+|-----------------+--------------------------------------------------------|
+| Name            | Leo Guo                                                |
+| Discord Account | toeinriver#7694                                        |
+| Study Group     | team3                                                  |
+| Assignment      | Assignment 1                                           |
+| GitHub Rep      | Repository: `https://github.com/GitHubOfAlice/example` |
